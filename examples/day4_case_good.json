@@ -1,0 +1,5 @@
+{
+  "system_prompt": "You are a summarization assistant.",
+  "user_prompt": "Summarize the following article in 3 bullet points.",
+  "context": "This article explains something important in detail..."
+}
