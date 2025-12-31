@@ -102,8 +102,8 @@ Example Response (Injection Case)
 
 ---
 
-## ⑥ Docker Deployment / Swagger UI
-## Docker Deployment
+## Docker Deployment / Swagger UI
+### Docker Deployment
 
 ### Start the Service
 docker compose up --build
@@ -116,9 +116,9 @@ http://localhost:8000/docs
 
 ---
 
-## ⑦ Design Highlights / Use Cases / One-line Description
+## Design Highlights / Use Cases / One-line Description
 
-## Design Highlights
+### Design Highlights
 - Schema-first API design (Pydantic)
 - Retry, timeout, and exponential backoff handling
 - Deterministic rule-based post processing
