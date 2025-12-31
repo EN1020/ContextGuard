@@ -98,6 +98,7 @@ Example Response (Injection Case)
     ]
   }
 }
+```
 
 ---
 
@@ -108,7 +109,10 @@ Example Response (Injection Case)
 docker compose up --build
 
 ##Swagger UI
+```bash
 http://localhost:8000/docs
+
+```
 
 ---
 
